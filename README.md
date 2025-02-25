@@ -1,0 +1,1 @@
+Bu proje [@semihkislar](https://github.com/semihkislar) tarafindan oluşturulan [community-speakers](https://github.com/semihkislar/community-speakers) reposundaki konuşmacıları rahat ve okunaklı şekilde gösterebilmek için oluşturulmuştur. Hedef repoda speakers.json içerisinde bulunan bütün kişiler proje sitesinde yer almaktadır. Katkıda bulunmak isteyenler PR açabilir.  
